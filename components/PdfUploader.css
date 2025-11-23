@@ -1,0 +1,19 @@
+.pdf-uploader{
+  margin: 1rem 0;
+}
+.pdf-uploader .controls{
+  margin-bottom: .5rem;
+}
+.file-label input{
+  display: block;
+  margin-top: .25rem;
+}
+.status{
+  color: #666;
+  margin: .5rem 0;
+}
+.extracted{
+  width: 100%;
+  box-sizing: border-box;
+  font-family: monospace;
+}
